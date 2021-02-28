@@ -11,3 +11,5 @@ A->LEFT
 S->DOWN
 
 D->RIGHT
+# Important
+To control the screen blink uncomment the sleep line in main and also you can change the sleep time according to your System specs.
