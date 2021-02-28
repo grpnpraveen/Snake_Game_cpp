@@ -1,5 +1,5 @@
 # Snake_Game_cpp 
-This is a console game made using cpp.
+This is a console game made using cpp.(both code and exe is uploaded)
 
 press 'O' to exit the game .
 
